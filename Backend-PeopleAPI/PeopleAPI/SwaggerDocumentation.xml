@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PeopleAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PeopleAPI.Controllers.PeopleAPIController.Get">
+            <summary>
+            Returns details of all the people in database.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

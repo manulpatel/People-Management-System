@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PeopleAPI</name>
+    </assembly>
+    <members>
+        <member name="M:peopleApi.Controllers.peopleApiController.Get">
+            <summary>
+            Returns details of all the people in database
+            </summary>
+            <returns></returns>
+            <response code="201">People</response>
+            <response code="400">First Name is empty</response>
+        </member>
+        <member name="M:peopleApi.Controllers.peopleApiController.Get(System.Guid)">
+            <summary>
+            Returns specific person details by Id
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:peopleApi.Controllers.peopleApiController.Post(PeopleAPI.Models.PersonModel)">
+            <summary>
+            Adds a new record in the database.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:peopleApi.Controllers.peopleApiController.Put(PeopleAPI.Models.PersonModel)">
+            <summary>
+            Updates details' of exisiting person in the database.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:peopleApi.Controllers.peopleApiController.Delete(System.Guid)">
+            <summary>
+            Removes the person details' from the database
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

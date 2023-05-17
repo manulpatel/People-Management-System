@@ -1,0 +1,111 @@
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.exe
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.deps.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.runtimeconfig.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.AssemblyReference.cache
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfoInputs.cache
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CoreCompileInputs.cache
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\scopedcss\bundle\PeopleAPI.styles.css
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CopyComplete
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\refint\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.genruntimeconfig.cache
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\ref\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Assignment\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.exe
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.deps.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.runtimeconfig.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.AssemblyReference.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfoInputs.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CoreCompileInputs.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\scopedcss\bundle\PeopleAPI.styles.css
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CopyComplete
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\refint\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.genruntimeconfig.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\ref\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.exe
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.deps.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.runtimeconfig.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.AssemblyReference.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfoInputs.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.AssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CoreCompileInputs.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\scopedcss\bundle\PeopleAPI.styles.css
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.csproj.CopyComplete
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\refint\PeopleAPI.dll
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.xml
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.pdb
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\PeopleAPI.genruntimeconfig.cache
+C:\Users\ManulPatel\Desktop\Project Assignmnet_with delete\Manul Patel\PeopleAPI\PeopleAPI\obj\Debug\net6.0\ref\PeopleAPI.dll
